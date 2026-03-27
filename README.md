@@ -21,24 +21,19 @@ Currently exploring intersections of:
 
 ---
 
-## 🧠 Featured Projects
+## Selected Work
 
-### 📈 Straddle Scalper — Quantitative Options Backtesting Framework
-A quantitative research engine analyzing **2M+ rows of NIFTY options data** to evaluate intraday trading strategies.
-
-- Simulates trading scenarios across multiple parameter sets
-- Uses Monte Carlo testing and risk metrics (Sharpe, drawdown)
-- Achieved **24.73% annualized return with P99 drawdown of 6.41%**
-
-Demo:  
-https://atm-short-straddle.streamlit.app/
-
-GitHub:  
+• **Straddle Scalper** — quantitative options backtesting framework analyzing 2M+ rows of NIFTY options data  
 https://github.com/Nalan1806/atm-straddle-engine
 
+• **IshaaraAI** — real-time sign language recognition system using computer vision and ML  
+https://github.com/Karthik-Ramkumar/IsharaAI
+
+• **AqarSense** — machine learning rental price prediction system with interactive Streamlit interface  
+https://github.com/Nalan1806/AqarSense
 ---
 
-### 🖐️ IshaaraAI — Real-Time Sign Language Speech Assist System
+### IshaaraAI — Real-Time Sign Language Speech Assist System
 Real-time system translating **sign language gestures into speech** using computer vision.
 
 - MediaPipe hand landmark detection
@@ -51,7 +46,7 @@ https://github.com/Karthik-Ramkumar/IsharaAI
 
 ---
 
-### 🏠 AqarSense — ML Rental Price Prediction System
+### AqarSense — ML Rental Price Prediction System
 Machine learning pipeline predicting residential rental prices using structured real estate data.
 
 - Trained on **73,742 records**
