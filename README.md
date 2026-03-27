@@ -23,14 +23,16 @@ Currently exploring intersections of:
 
 ## Selected Work
 
-• **Straddle Scalper** — quantitative options backtesting framework analyzing 2M+ rows of NIFTY options data  
-https://github.com/Nalan1806/atm-straddle-engine
+## Selected Work
 
-• **IshaaraAI** — real-time sign language recognition system using computer vision and ML  
-https://github.com/Karthik-Ramkumar/IsharaAI
+- **Straddle Scalper** — quantitative options backtesting framework analyzing 2M+ rows of NIFTY options data  
+  https://github.com/Nalan1806/atm-straddle-engine
 
-• **AqarSense** — machine learning rental price prediction system with interactive Streamlit interface  
-https://github.com/Nalan1806/AqarSense
+- **IshaaraAI** — real-time sign language recognition system using computer vision and ML  
+  https://github.com/Karthik-Ramkumar/IsharaAI
+
+- **AqarSense** — machine learning rental price prediction system with interactive Streamlit interface  
+  https://github.com/Nalan1806/AqarSense
 ---
 ## 🛠 Tools & Technologies
 
