@@ -29,7 +29,7 @@ Currently exploring intersections of:
   https://github.com/Nalan1806/atm-straddle-engine
 
 - **IshaaraAI** — real-time sign language recognition system using computer vision and ML  
-  https://github.com/Karthik-Ramkumar/IsharaAI
+  https://github.com/Nalan1806/IsharaAI
 
 - **AqarSense** — machine learning rental price prediction system with interactive Streamlit interface  
   https://github.com/Nalan1806/AqarSense
