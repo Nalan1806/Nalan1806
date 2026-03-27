@@ -32,36 +32,6 @@ https://github.com/Karthik-Ramkumar/IsharaAI
 • **AqarSense** — machine learning rental price prediction system with interactive Streamlit interface  
 https://github.com/Nalan1806/AqarSense
 ---
-
-### IshaaraAI — Real-Time Sign Language Speech Assist System
-Real-time system translating **sign language gestures into speech** using computer vision.
-
-- MediaPipe hand landmark detection
-- ML gesture classification across **35 gesture classes**
-- Real-time inference (~20 FPS on CPU)
-- **Finalist at IIT Gandhinagar Codeversity Hackathon (600+ teams)**
-
-GitHub:  
-https://github.com/Karthik-Ramkumar/IsharaAI
-
----
-
-### AqarSense — ML Rental Price Prediction System
-Machine learning pipeline predicting residential rental prices using structured real estate data.
-
-- Trained on **73,742 records**
-- Feature engineering reducing dimensionality
-- Ridge regression with cross-validation
-- Interactive Streamlit app for predictions and visualization
-
-Demo:  
-https://aqrsense.streamlit.app/
-
-GitHub:  
-https://github.com/Nalan1806/AqarSense
-
----
-
 ## 🛠 Tools & Technologies
 
 Languages  
